@@ -13,5 +13,7 @@ printf("Language\n");
 scanf("%[^\n]%*c");
 printf("Welcome To C!!\n");
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
-    return 0;
+return 0;
 }
+
+  
