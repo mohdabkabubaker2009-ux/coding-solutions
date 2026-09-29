@@ -49,7 +49,7 @@ The third line prints the sentence, $sen$.
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-29T05:04:29.803Z  
+**Submitted:** 2026-09-29T05:15:52.649Z  
 
 ```c
 #include <stdio.h>
@@ -67,8 +67,10 @@ printf("Language\n");
 scanf("%[^\n]%*c");
 printf("Welcome To C!!\n");
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
-    return 0;
+return 0;
 }
+
+  
 
 ```
 
