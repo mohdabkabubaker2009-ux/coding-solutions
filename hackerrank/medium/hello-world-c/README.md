@@ -48,7 +48,7 @@ There is one line of text, $s$.
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-26T05:27:48.243Z  
+**Submitted:** 2026-09-29T04:36:47.470Z  
 
 ```c
 #include <stdio.h>
@@ -61,12 +61,12 @@ int main()
 	
     char s[100];
     scanf("%[^\n]%*c", &s);
-    
-    printf("Hello, World!\n");
-    printf("%s",s);
   	
+    printf ("Hello, World!\n");
+    printf("%s",s);
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
+
 }
 
 ```
